@@ -1,0 +1,20 @@
+Info: Reading netlist file 'C:\Users\troyk\Documents\KiCad\temp_sensor_DS1722_interface\DS1722_Temp_Sensor\DS1722_Temp_Sensor.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U1:Library:DS1722'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D5:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'J1:Connector_PinSocket_1.27mm:PinSocket_1x08_P1.27mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinSocket_1.27mm:PinSocket_1x08_P1.27mm_Vertical'.
+
+
+Info: Total warnings: 0, errors: 0.

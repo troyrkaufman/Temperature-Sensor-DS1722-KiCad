@@ -1344,7 +1344,7 @@
 		)
 		(uuid "371be5e1-01cd-4882-b4bd-3f3ec07b5fa4")
 	)
-	(label "PICO"
+	(label "POCI"
 		(at 78.74 67.31 0)
 		(fields_autoplaced yes)
 		(effects
